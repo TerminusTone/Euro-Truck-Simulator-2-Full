@@ -1,0 +1,23 @@
+{
+  "repo": "euro-truck-simulator-2-full",
+  "product": "Euro Truck Simulator 2 Full",
+  "kind": "game",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "sim",
+  "topics": [
+    "ets2-complete",
+    "freight-job-desk",
+    "cabin-paint-windows",
+    "ets2-2026",
+    "how-to-install-ets2",
+    "ets2-desktop-package",
+    "free-cam-photo-suite",
+    "company-skill-tools",
+    "truck-sim-all-dlc",
+    "euro-truck-simulator-2"
+  ],
+  "site": "toolix.me"
+}
